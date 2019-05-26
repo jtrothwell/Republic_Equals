@@ -1,0 +1,41 @@
+Manifest for external documents to A Republic of Equals: A Manifestor for a Just Society by Jonathan Rothwell (Princeton University Press),,,
+File_name,short_description,File_type,longer_Description
+Appendix_Methods_for_Identifying_Top1Pct_with_ACS2012_2016,top1 income earner analysis,Stata code,This file performs analysis described in the Appendix chapter to identify the one percent and determine the robustness of that identificaiton across various income definitions.
+Appendix_Methods_IRS_Income_Correlation_with_Census_Income,top1 income earner analysis,Stata code,This processes IRS data at the zip code level and shows the relationship between total income and capital income.
+Aggregating occ90.csv,Dictionary,Meta data,This shows how occupational classifications were aggregated using historic census data from IPUMS
+Appendix_CENSUS_IPUMS_Calculate_Composition_at_Top1_by_Broad_Occupation.do,top1 income earner analysis,Stata code,This shows how to replicate my anlaysis of top1% earners by broad/high-level occupational group
+Appendix_CENSUS_IPUMS_Calculate_Composition_at_Top1_by_Broad_Sector.do,top1 income earner analysis,Stata code,This shows how to replicate my anlaysis of top1% earners by broad/high-level sector of work
+Appendix_CENSUS_IPUMS_Calculate_Composition_at_Top1_by_Occ_or_Industry.do,top1 income earner analysis,Stata code,This shows how to replicate my anlaysis of top1% earners by detailed industry or occupation of work
+Appendix_Data_Dictionary_&_Sourcing.csv,Dictionary,Meta data,Shows where I got the data from and other details
+Appendix_Data_for_OECD_Analysis_of_Inequality.csv,Data for international analysis,Data,"raw international data needed to replicate my analysis, particularly in chapter1 and the appendix showing what predicts inequality"
+Appendix_Gallup_Financial_Insecurity_&_Confidence_Government.do,Political satisfaction analysis,Stata code,Gallup World Poll data processing
+Appendix_Generate_OECD_Only_Inequality_Analysis_&_Output.do,international analysis of inequality,Stata code,Code for analyzing many merged files from the sources described in the file Appendix_Data_Dictionary_&_Sourcing.csv
+APPENDIX_LIS_OUTPUT--Composition of Top1 by Occupation & Sector by Country,top1 income earner analysis,Data,This publishes measures of top1 shares by occupation and sector and related data--including how these metrics related to inequality--for all countries in the Luxembourg Income Study database (includes non-OECD members)
+Appendix_NLS_1979_Predict_Health_Income.do,"cognitive ability, personality, income, health",Stata code,US based analysis of how IQ and personality predict health and income and what predict IQ and personality and how it varies and does not vary by race and gender
+Appendix_NLS_1997_Predict_Personality_Health_&_Income.do,"cognitive ability, personality, income, health",Stata code,US based analysis of how IQ and personality predict health and income and what predict IQ and personality and how it varies and does not vary by race and gender
+Appendix_PIACC_IQ_by_Occupation.do,"cognitive ability, personality, income, health",Stata code,International analysis of adult cognitive ability
+Appendix_PISA_Skill_Gaps.do,"cognitive ability, personality, income, health",Stata code,International analysis of 15 year-old cognitive ability
+Appendix_PreK_Classroom_Quality_&_IQ.do,education quality and cognitive ability,Stata code,Analysis of preK classrooms in USA & IQ
+Appendix_Project_Talent_Analysis.do,education quality and cognitive ability,Stata code,Analysis of IQ of 5% of US high school students in 1960
+Appendix_UN_Gini_Data.do,replicating inequality measure,Stata code,Use UN WIID to generate summary measures of inequality using best sources available
+Change_1980_2015_by_Broad_Occ.csv,top1 income earner analysis,Data,Shows top1 percent shares by occupation in USA from 1980 to 2015
+Change_1980_2015_by_Broad_Occ_Sec.csv,top1 income earner analysis,Data,Shows top1 percent shares by occupation & sector in USA from 1980 to 2015
+Change_1980_2015_by_Broad_Sector.csv,top1 income earner analysis,Data,Shows top1 percent shares by broad sector in USA from 1980 to 2015
+Change_1980_2015_by_IND.csv,top1 income earner analysis,Data,Shows top1 percent shares by detailed industry in USA from 1980 to 2015
+Change_1980_2015_by_IND_Occ.csv,top1 income earner analysis,Data,Shows top1 percent shares by detailed industry & occupation in USA from 1980 to 2015
+Change_1980_2015_by_naics2.csv,top1 income earner analysis,Data,Shows top1 percent shares by sector in USA from 1980 to 2015
+Change_1980_2015_by_naics2_occ1990.csv,top1 income earner analysis,Data,Shows top1 percent shares by sector and detailed occupation in USA from 1980 to 2015
+Change_1980_2015_by_Occ.csv,top1 income earner analysis,Data,Shows top1 percent shares by detailed occupation in USA from 1980 to 2015
+Dictionary_Census_IPUMS_Top1_Change_Files.txt,Dictionary,Meta data,"Use this to interpret data in the files ""Change_1980_2015…."""
+LIS_Compile_Data.do,top1 income earner analysis,Stata code,Code for merging files and analysing LIS data
+LIS_STATA_Replication_Code_Max_Income_Thresholds,top1 income earner analysis,Stata code,Code for calculating reporting thresholds by country to compare to Piketty et al's WID thresholds from tax sources
+LIS_STATA_Replication_Code_Occupational_Stats,top1 income earner analysis,Stata code,Code for calculating what share of top1 earners are in each occuaption by country
+LIS_STATA_Replication_Code_Share_in_Top1_by_Sector,top1 income earner analysis,Stata code,Code for calculating what share of top1 earners are in each sector by country
+Match_Ind1990_NAICS_2D.dta,Dictionary,Meta data,Aggregate detailed industries to higher level sectors for US historical anlaysis using IPUMS microdata
+OECD_Correlations_Inequality.csv,international analysis of inequality,Results from OECD inequality analysis,
+OECD_Explain_Inequality_Index.csv,international analysis of inequality,Results from OECD inequality analysis,
+OECD_Explain_UN_Gini.csv,international analysis of inequality,Results from OECD inequality analysis,
+OECD_Explain_WID_Top1_Share.csv,international analysis of inequality,Results from OECD inequality analysis,
+OECD_Regress_Confidence_on_Growth_Inequality.csv,international analysis of inequality,Results from OECD inequality analysis,
+OUTPUT_Correlations_with_Inequality_OECD_Only.csv,international analysis of inequality,Results from OECD inequality analysis,
+Regress_Confidence_on_Anxiety.csv,international analysis of political dissatisfaction,Results from OECD inequality analysis,

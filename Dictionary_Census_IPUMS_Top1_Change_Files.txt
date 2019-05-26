@@ -1,0 +1,19 @@
+The following variables are in the files labeled "Change_1980_2015_...csv"
+
+All data are from my analysis of IPUMS USA:
+Citation: Steven Ruggles, Katie Genadek, Ronald Goeken, Josiah Grover, and Matthew Sobek. Integrated Public Use Microdata Series: Version 7.0 [dataset]. Minneapolis: University of Minnesota, 2017. https://doi.org/10.18128/D010.V7.0.
+
+Cross-sectional variables:
+
+sh_top1[YEAR]. Number of people in top1% in category/Total number of people in top1%	
+top1[YEAR]. Number of people in top1% in category/Total number of people in category	
+earn_res[YEAR]. Residual from OLS regression of ln(income) on age, age2, age3, male, and all educational categories. This is a meaure of excessive pay by category.
+num_top1[YEAR]. Estimated number of people in each category in top1%
+us_num_top1[YEAR]. Estimated number of US residents in top1%
+
+Change variables refer to 1980-2015:
+
+change: Number in top 1% in category in 2015 - Number in top 1% in category in 1980 (category totals, eg occupation)
+us_change: Number in top 1% in 2015 - Number in top 1% in 1980 (USA totals)
+sh_change=change/us_change
+xsh_top1=sh_top12015-sh_top11980

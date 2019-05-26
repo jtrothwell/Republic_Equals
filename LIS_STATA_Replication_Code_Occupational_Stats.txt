@@ -1,0 +1,36 @@
+global datasets "at10 at13 br13  ca10 co13 dk13 ee13 fi13 fr84 fr10 ge13 de84 de13 gr13 hu12 is10 in11 ie10 il79 il12 lu85 lu13 mx84 mx12 nl13 pa13 pe13 pl13 ru13 rs13 si12  es80 es13  ch13 tw81 tw13 uk13 us79 us13"          
+   
+     
+*Drop at87, be85, ie87 ,kr10 ,kr12 , es85      
+program define make_var          
+ drop if occb1==.          
+ drop if age>65          
+ drop if age<18          
+ keep if emp==1          
+ xtile inc100=pi, nq(100)          
+ sum pi if inc100==100 [aw=pwgt]          
+ sum pi [aw=pwgt]          
+ gen top1=1 if inc100==100          
+ replace top1=0 if inc100<100          
+ egen pop=total(pwgt)          
+ egen pop_top1=total(pwgt*top1)          
+ bysort occb1: egen pop_occ=total(pwgt)          
+ bysort occb1: egen pop_occ_top1=total(pwgt*top1)          
+ gen sh_top1=pop_occ_top1/pop_top1          
+ gen sh_all=pop_occ/pop    
+ egen top1_income_medx=median(pi) if top1==1        
+ egen top1_income_med=max(top1_income_medx)   
+ egen med_income=median(pi)   
+ gen top1_ratio=top1_income_med/med_income        
+end          
+          
+foreach ccyy in $datasets  {          
+ use age emp pwgt pi occb1 indb1 cname year using $`ccyy'p, clear          
+ quietly make_var          
+           
+ collapse (first) year top1_income_med med_income top1_ratio (count) N=pwgt (p50) occ50_inc=pi (p90) occ90_inc=pi (mean) sh_all sh_top1 top1 avg_inc=pi [aw=pwgt], by(cname  occb1)          
+ format sh_all sh_top1 top1 top1_income_med med_income top1_ratio occ50_inc occ90_inc avg_inc %9.3f     
+ bysort cname occb1 year: sum  N sh_top1 top1 top1_income med_income avg_inc  occ50_inc occ90_inc top1_ratio, sep(0)         
+}       
+   
+ 

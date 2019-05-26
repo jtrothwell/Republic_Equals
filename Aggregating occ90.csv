@@ -1,0 +1,390 @@
+Broad_Occ,occ90,occ90_title
+Managerial,3,Legislators
+Managerial,4,Chief executives and public administrators
+Managerial,7,Financial managers
+Managerial,8,Human resources and labor relations managers
+Managerial,13,"Managers and specialists in marketing, advertising, and public relations"
+Managerial,14,Managers in education and related fields
+Managerial,15,Managers of medicine and health occupations
+Managerial,16,Postmasters and mail superintendents
+Managerial,17,Managers of food-serving and lodging establishments
+Managerial,18,Managers of properties and real estate
+Managerial,19,Funeral directors
+Managerial,21,"Managers of service organizations, n.e.c."
+Managerial,22,"Managers and administrators, n.e.c."
+Managerial,23,Accountants and auditors
+Managerial,24,Insurance underwriters
+Managerial,25,Other financial specialists
+Managerial,26,Management analysts
+Managerial,27,"Personnel, HR, training, and labor relations specialists"
+Managerial,28,"Purchasing agents and buyers, of farm products"
+Managerial,29,"Buyers, wholesale and retail trade"
+Managerial,33,"Purchasing managers, agents and buyers, n.e.c."
+Managerial,34,Business and promotion agents
+Managerial,35,Construction inspectors
+Managerial,36,"Inspectors and compliance officers, outside construction"
+Managerial,37,Management support occupations
+Professional specialists,43,Architects
+Professional specialists,44,Aerospace engineer
+Professional specialists,45,"Metallurgical and materials engineers, variously phrased"
+Professional specialists,47,"Petroleum, mining, and geological engineers"
+Professional specialists,48,Chemical engineers
+Professional specialists,53,Civil engineers
+Professional specialists,55,Electrical engineer
+Professional specialists,56,Industrial engineers
+Professional specialists,57,Mechanical engineers
+Professional specialists,59,Not-elsewhere-classified engineers
+Professional specialists,64,Computer systems analysts and computer scientists
+Professional specialists,65,Operations and systems researchers and analysts
+Professional specialists,66,Actuaries
+Professional specialists,67,Statisticians
+Professional specialists,68,Mathematicians and mathematical scientists
+Professional specialists,69,Physicists and astronomers
+Professional specialists,73,Chemists
+Professional specialists,74,Atmospheric and space scientists
+Professional specialists,75,Geologists
+Professional specialists,76,"Physical scientists, n.e.c."
+Professional specialists,77,Agricultural and food scientists
+Professional specialists,78,Biological scientists
+Professional specialists,79,Foresters and conservation scientists
+Professional specialists,83,Medical scientists
+Professional specialists,84,Physicians
+Professional specialists,85,Dentists
+Professional specialists,86,Veterinarians
+Professional specialists,87,Optometrists
+Professional specialists,88,Podiatrists
+Professional specialists,89,Other health and therapy
+Professional specialists,95,Registered nurses
+Professional specialists,96,Pharmacists
+Professional specialists,97,Dietitians and nutritionists
+Professional specialists,98,Respiratory therapists
+Professional specialists,99,Occupational therapists
+Professional specialists,103,Physical therapists
+Professional specialists,104,Speech therapists
+Professional specialists,105,"Therapists, n.e.c."
+Professional specialists,106,Physicians' assistants
+Professional specialists,113,"Earth, environmental, and marine science instructors"
+Professional specialists,114,Biological science instructors
+Professional specialists,115,Chemistry instructors
+Professional specialists,116,Physics instructors
+Professional specialists,118,Psychology instructors
+Professional specialists,119,Economics instructors
+Professional specialists,123,History instructors
+Professional specialists,125,Sociology instructors
+Professional specialists,127,Engineering instructors
+Professional specialists,128,Math instructors
+Professional specialists,139,Education instructors
+Professional specialists,145,Law instructors
+Professional specialists,147,Theology instructors
+Professional specialists,149,Home economics instructors
+Professional specialists,150,"Humanities profs/instructors, college, n.e.c"
+Professional specialists,154,Subject instructors (HS/college)
+Professional specialists,155,Kindergarten and earlier school teachers
+Professional specialists,156,Primary school teachers
+Professional specialists,157,Secondary school teachers
+Professional specialists,158,Special education teachers
+Professional specialists,159,"Teachers , n.e.c."
+Professional specialists,163,Vocational and educational counselors
+Professional specialists,164,Librarians
+Professional specialists,165,Archivists and curators
+Professional specialists,166,"Economists, market researchers, and survey researchers"
+Professional specialists,167,Psychologists
+Professional specialists,168,Sociologists
+Professional specialists,169,"Social scientists, n.e.c."
+Professional specialists,173,Urban and regional planners
+Professional specialists,174,Social workers
+Professional specialists,175,Recreation workers
+Professional specialists,176,Clergy and religious workers
+Professional specialists,178,Lawyers
+Professional specialists,179,Judges
+Professional specialists,183,Writers and authors
+Professional specialists,184,Technical writers
+Professional specialists,185,Designers
+Professional specialists,186,Musician or composer
+Professional specialists,187,"Actors, directors, producers"
+Professional specialists,188,"Art makers: painters, sculptors, craft-artists, and print-makers"
+Professional specialists,189,Photographers
+Professional specialists,193,Dancers
+Professional specialists,194,Art/entertainment performers and related
+Professional specialists,195,Editors and reporters
+Professional specialists,198,Announcers
+Professional specialists,199,"Athletes, sports instructors, and officials"
+Professional specialists,200,"Professionals, n.e.c."
+Professional specialists,203,Clinical laboratory technologies and technicians
+Professional specialists,204,Dental hygienists
+Professional specialists,205,Health record tech specialists
+Professional specialists,206,Radiologic tech specialists
+Professional specialists,207,Licensed practical nurses
+Professional specialists,208,"Health technologists and technicians, n.e.c."
+Professional specialists,213,Electrical and electronic (engineering) technicians
+Professional specialists,214,"Engineering technicians, n.e.c."
+Professional specialists,215,Mechanical engineering technicians
+Professional specialists,217,Drafters
+Professional specialists,218,"Surveyors, cartographers, mapping scientists and technicians"
+Professional specialists,223,Biological technicians
+Professional specialists,224,Chemical technicians
+Professional specialists,225,Other science technicians
+Professional specialists,226,Airplane pilots and navigators
+Professional specialists,227,Air traffic controllers
+Professional specialists,228,Broadcast equipment operators
+Professional specialists,229,Computer software developers
+Professional specialists,233,Programmers of numerically controlled machine tools
+Professional specialists,234,"Legal assistants, paralegals, legal support, etc."
+Professional specialists,235,"Technicians, n.e.c."
+Finance and sales,243,Supervisors and proprietors of sales jobs
+Finance and sales,253,Insurance sales occupations
+Finance and sales,254,Real estate sales occupations
+Finance and sales,255,Financial services sales occupations
+Finance and sales,256,Advertising and related sales jobs
+Finance and sales,258,Sales engineers
+Finance and sales,274,"Salespersons, n.e.c."
+Finance and sales,275,Retail sales clerks
+Finance and sales,276,Cashiers
+Finance and sales,277,"Door-to-door sales, street sales, and news vendors"
+Finance and sales,283,Sales demonstrators / promoters / models
+Administrative,303,Office supervisors
+Administrative,308,Computer and peripheral equipment operators
+Administrative,313,Secretaries
+Administrative,314,Stenographers
+Administrative,315,Typists
+Administrative,316,"Interviewers, enumerators, and surveyors"
+Administrative,317,Hotel clerks
+Administrative,318,Transportation ticket and reservation agents
+Administrative,319,Receptionists
+Administrative,323,"Information clerks, n.e.c"
+Administrative,326,Correspondence and order clerks
+Administrative,328,"Human resources clerks, except payroll and timekeeping"
+Administrative,329,Library assistants
+Administrative,335,File clerks
+Administrative,336,Records clerks
+Administrative,337,Bookkeepers and accounting and auditing clerks
+Administrative,338,Payroll and timekeeping clerks
+Administrative,343,Cost and rate clerks (financial records processing)
+Administrative,344,Billing clerks and related financial records processing
+Administrative,345,Duplication machine operators / office machine operators
+Administrative,346,Mail and paper handlers
+Administrative,347,"Office machine operators, n.e.c."
+Administrative,348,Telephone operators
+Administrative,349,Other telecom operators
+Administrative,354,"Postal clerks, excluding mail carriers"
+Administrative,355,Mail carriers for postal service
+Administrative,356,"Mail clerks, outside of post office"
+Administrative,357,Messengers
+Administrative,359,Dispatchers
+Administrative,361,"Inspectors, n.e.c."
+Administrative,364,Shipping and receiving clerks
+Administrative,365,Stock and inventory clerks
+Administrative,366,Meter readers
+Administrative,368,"Weighers, measurers, and checkers"
+Administrative,373,"Material recording, scheduling, production, planning, and expediting clerks"
+Administrative,375,"Insurance adjusters, examiners, and investigators"
+Administrative,376,"Customer service reps, investigators and adjusters, except insurance"
+Administrative,377,Eligibility clerks for government programs; social welfare
+Administrative,378,Bill and account collectors
+Administrative,379,General office clerks
+Administrative,383,Bank tellers
+Administrative,384,Proofreaders
+Administrative,385,Data entry keyers
+Administrative,386,Statistical clerks
+Administrative,387,Teacher's aides
+Administrative,389,"Administrative support jobs, n.e.c."
+Service,405,"Housekeepers, maids, butlers, stewards, and lodging quarters cleaners"
+Service,407,Private household cleaners and servants
+Service,415,Supervisors of guards
+Service,417,"Fire fighting, prevention, and inspection"
+Service,418,"Police, detectives, and private investigators"
+Service,423,"Other law enforcement: sheriffs, bailiffs, correctional institution officers"
+Service,425,Crossing guards and bridge tenders
+Service,426,"Guards, watchmen, doorkeepers"
+Service,427,"Protective services, n.e.c."
+Service,434,Bartenders
+Service,435,Waiter/waitress
+Service,436,"Cooks, variously defined"
+Service,438,Food counter and fountain workers
+Service,439,Kitchen workers
+Service,443,Waiter's assistant
+Service,444,Misc. food prep workers
+Service,445,Dental assistants
+Service,446,"Health aides, except nursing"
+Service,447,"Nursing aides, orderlies, and attendants"
+Service,448,Supervisors of cleaning and building service
+Service,453,Janitors
+Service,454,Elevator operators
+Service,455,Pest control occupations
+Service,456,"Supervisors of personal service jobs, n.e.c."
+Service,457,Barbers
+Service,458,Hairdressers and cosmetologists
+Service,459,Recreation facility attendants
+Service,461,Guides
+Service,462,Ushers
+Service,463,Public transportation attendants and inspectors
+Service,464,Baggage porters
+Service,465,Welfare service aides
+Service,468,Child care workers
+Service,469,"Personal service occupations, n.e.c"
+Farming,473,Farmers (owners and tenants)
+Farming,474,Horticultural specialty farmers
+Farming,475,"Farm managers, except for horticultural farms"
+Farming,476,Managers of horticultural specialty farms
+Farming,479,Farm workers
+Farming,483,Marine life cultivation workers
+Farming,484,Nursery farming workers
+Farming,485,Supervisors of agricultural occupations
+Farming,486,Gardeners and groundskeepers
+Farming,487,Animal caretakers except on farms
+Farming,488,Graders and sorters of agricultural products
+Farming,489,Inspectors of agricultural products
+Farming,496,"Timber, logging, and forestry workers"
+Farming,498,"Fishers, hunters, and kindred"
+Craft and construction,503,Supervisors of mechanics and repairers
+Craft and construction,505,Automobile mechanics
+Craft and construction,507,"Bus, truck, and stationary engine mechanics"
+Craft and construction,508,Aircraft mechanics
+Craft and construction,509,Small engine repairers
+Craft and construction,514,Auto body repairers
+Craft and construction,516,Heavy equipment and farm equipment mechanics
+Craft and construction,518,Industrial machinery repairers
+Craft and construction,519,Machinery maintenance occupations
+Craft and construction,523,Repairers of industrial electrical equipment
+Craft and construction,525,Repairers of data processing equipment
+Craft and construction,526,Repairers of household appliances and power tools
+Craft and construction,527,Telecom and line installers and repairers
+Craft and construction,533,"Repairers of electrical equipment, n.e.c."
+Craft and construction,534,"Heating, air conditioning, and refrigeration mechanics"
+Craft and construction,535,"Precision makers, repairers, and smiths"
+Craft and construction,536,Locksmiths and safe repairers
+Craft and construction,538,Office machine repairers and mechanics
+Craft and construction,539,Repairers of mechanical controls and valves
+Craft and construction,543,Elevator installers and repairers
+Craft and construction,544,Millwrights
+Craft and construction,549,"Mechanics and repairers, n.e.c."
+Craft and construction,558,Supervisors of construction work
+Craft and construction,563,"Masons, tilers, and carpet installers"
+Craft and construction,567,Carpenters
+Craft and construction,573,Drywall installers
+Craft and construction,575,Electricians
+Craft and construction,577,Electric power installers and repairers
+Craft and construction,579,"Painters, construction and maintenance"
+Craft and construction,583,Paperhangers
+Craft and construction,584,Plasterers
+Craft and construction,585,"Plumbers, pipe fitters, and steamfitters"
+Craft and construction,588,Concrete and cement workers
+Craft and construction,589,Glaziers
+Craft and construction,593,Insulation workers
+Craft and construction,594,"Paving, surfacing, and tamping equipment operators"
+Craft and construction,595,Roofers and slaters
+Craft and construction,596,Sheet metal duct installers
+Craft and construction,597,Structural metal workers
+Craft and construction,598,Drillers of earth
+Craft and construction,599,"Construction trades, n.e.c."
+Craft and construction,614,Drillers of oil wells
+Craft and construction,615,Explosives workers
+Craft and construction,616,Miners
+Craft and construction,617,Other mining occupations
+Craft and construction,628,Production supervisors or foremen
+Craft and construction,634,Tool and die makers and die setters
+Craft and construction,637,Machinists
+Craft and construction,643,Boilermakers
+Craft and construction,644,Precision grinders and filers
+Craft and construction,645,Patternmakers and model makers
+Craft and construction,646,Lay-out workers
+Craft and construction,649,Engravers
+Craft and construction,653,"Tinsmiths, coppersmiths, and sheet metal workers"
+Craft and construction,657,Cabinetmakers and bench carpenters
+Craft and construction,658,Furniture and wood finishers
+Craft and construction,659,Other precision woodworkers
+Craft and construction,666,Dressmakers and seamstresses
+Craft and construction,667,Tailors
+Craft and construction,668,Upholsterers
+Craft and construction,669,Shoe repairers
+Craft and construction,674,Other precision apparel and fabric workers
+Craft and construction,675,"Hand molders and shapers, except jewelers"
+Craft and construction,677,Optical goods workers
+Craft and construction,678,Dental laboratory and medical appliance technicians
+Craft and construction,679,Bookbinders
+Craft and construction,684,Other precision and craft workers
+Craft and construction,686,Butchers and meat cutters
+Craft and construction,687,Bakers
+Craft and construction,688,Batch food makers
+Craft and construction,693,Adjusters and calibrators
+Craft and construction,694,Water and sewage treatment plant operators
+Craft and construction,695,Power plant operators
+Craft and construction,696,"Plant and system operators, stationary engineers"
+Craft and construction,699,Other plant and system operators
+Machine operators and laborers,703,"Lathe, milling, and turning machine operatives"
+Machine operators and laborers,706,Punching and stamping press operatives
+Machine operators and laborers,707,"Rollers, roll hands, and finishers of metal"
+Machine operators and laborers,708,Drilling and boring machine operators
+Machine operators and laborers,709,"Grinding, abrading, buffing, and polishing workers"
+Machine operators and laborers,713,Forge and hammer operators
+Machine operators and laborers,717,"Fabricating machine operators, n.e.c."
+Machine operators and laborers,719,"Molders, and casting machine operators"
+Machine operators and laborers,723,Metal platers
+Machine operators and laborers,724,Heat treating equipment operators
+Machine operators and laborers,726,"Wood lathe, routing, and planing machine operators"
+Machine operators and laborers,727,Sawing machine operators and sawyers
+Machine operators and laborers,728,Shaping and joining machine operator (woodworking)
+Machine operators and laborers,729,Nail and tacking machine operators (woodworking)
+Machine operators and laborers,733,Other woodworking machine operators
+Machine operators and laborers,734,"Printing machine operators, n.e.c."
+Machine operators and laborers,735,Photoengravers and lithographers
+Machine operators and laborers,736,Typesetters and compositors
+Machine operators and laborers,738,Winding and twisting textile/apparel operatives
+Machine operators and laborers,739,"Knitters, loopers, and toppers textile operatives"
+Machine operators and laborers,743,Textile cutting machine operators
+Machine operators and laborers,744,Textile sewing machine operators
+Machine operators and laborers,745,Shoemaking machine operators
+Machine operators and laborers,747,Pressing machine operators (clothing)
+Machine operators and laborers,748,Laundry workers
+Machine operators and laborers,749,Misc. textile machine operators
+Machine operators and laborers,753,Cementing and gluing machine operators
+Machine operators and laborers,754,"Packers, fillers, and wrappers"
+Machine operators and laborers,755,Extruding and forming machine operators
+Machine operators and laborers,756,Mixing and blending machine operatives
+Machine operators and laborers,757,"Separating, filtering, and clarifying machine operators"
+Machine operators and laborers,759,Painting machine operators
+Machine operators and laborers,763,Roasting and baking machine operators (food)
+Machine operators and laborers,764,"Washing, cleaning, and pickling machine operators"
+Machine operators and laborers,765,Paper folding machine operators
+Machine operators and laborers,766,"Furnace, kiln, and oven operators, apart from food"
+Machine operators and laborers,768,Crushing and grinding machine operators
+Machine operators and laborers,769,Slicing and cutting machine operators
+Machine operators and laborers,773,Motion picture projectionists
+Machine operators and laborers,774,Photographic process workers
+Machine operators and laborers,779,"Machine operators, n.e.c."
+Machine operators and laborers,783,Welders and metal cutters
+Machine operators and laborers,784,Solderers
+Machine operators and laborers,785,Assemblers of electrical equipment
+Machine operators and laborers,789,"Hand painting, coating, and decorating occupations"
+Machine operators and laborers,796,Production checkers and inspectors
+Machine operators and laborers,799,Graders and sorters in manufacturing
+Transportation,803,Supervisors of motor vehicle transportation
+Transportation,804,"Truck, delivery, and tractor drivers"
+Transportation,808,Bus drivers
+Transportation,809,Taxi cab drivers and chauffeurs
+Transportation,813,Parking lot attendants
+Transportation,823,Railroad conductors and yardmasters
+Transportation,824,Locomotive operators (engineers and firemen)
+Transportation,825,"Railroad brake, coupler, and switch operators"
+Transportation,829,Ship crews and marine engineers
+Transportation,834,Water transport infrastructure tenders and crossing guards
+Machine operators and laborers,844,Operating engineers of construction equipment
+Machine operators and laborers,848,"Crane, derrick, winch, and hoist operators"
+Machine operators and laborers,853,Excavating and loading machine operators
+Machine operators and laborers,859,Misc. material moving occupations
+Machine operators and laborers,865,"Helpers, constructions"
+Machine operators and laborers,866,"Helpers, surveyors"
+Machine operators and laborers,869,Construction laborers
+Machine operators and laborers,874,Production helpers
+Transportation,875,Garbage and recyclable material collectors
+Transportation,876,Materials movers: stevedores and longshore workers
+Transportation,877,Stock handlers
+Transportation,878,Machine feeders and offbearers
+Transportation,883,"Freight, stock, and materials handlers"
+Transportation,885,Garage and service station related occupations
+Transportation,887,Vehicle washers and equipment cleaners
+Transportation,888,Packers and packagers by hand
+Transportation,889,Laborers outside construction
+Military,905,Military
+,991,Unemployed
+,999,N/A and unknown
