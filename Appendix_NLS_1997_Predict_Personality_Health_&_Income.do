@@ -244,6 +244,7 @@ sum zbig3 zanxious zself_disc zenthus if asian==1 [aw=SAMPLING_WEIGHT_CC_2008]
 sum zbig3 zanxious zself_disc zenthus if male==1 [aw=SAMPLING_WEIGHT_CC_2008]
 sum zbig3 zanxious zself_disc zenthus if male==0 [aw=SAMPLING_WEIGHT_CC_2008]
 
+*Figure 3.3--Cognitive Ability and Personality by riskiness of home and family environment, expressed in standard deviations with mean of zero
 xtile risk5=zFP_ADHRISKI_1997 ,nq(5)
 bysort risk5: sum zbig3 zanxious zself_disc zenthus zASVAB_MATH_VERBAL_SCORE_PCT 
 

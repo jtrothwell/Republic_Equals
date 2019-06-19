@@ -1,19 +1,21 @@
-Manifest for external documents to A Republic of Equals: A Manifestor for a Just Society by Jonathan Rothwell (Princeton University Press),,,
+"Manifest for supplemental materials to ""A Republic of Equals: A Manifesto for a Just Society"" by Jonathan Rothwell (Princeton University Press, 2019)",,,
 File_name,short_description,File_type,longer_Description
-Appendix_Methods_for_Identifying_Top1Pct_with_ACS2012_2016,top1 income earner analysis,Stata code,This file performs analysis described in the Appendix chapter to identify the one percent and determine the robustness of that identificaiton across various income definitions.
-Appendix_Methods_IRS_Income_Correlation_with_Census_Income,top1 income earner analysis,Stata code,This processes IRS data at the zip code level and shows the relationship between total income and capital income.
 Aggregating occ90.csv,Dictionary,Meta data,This shows how occupational classifications were aggregated using historic census data from IPUMS
 Appendix_CENSUS_IPUMS_Calculate_Composition_at_Top1_by_Broad_Occupation.do,top1 income earner analysis,Stata code,This shows how to replicate my anlaysis of top1% earners by broad/high-level occupational group
 Appendix_CENSUS_IPUMS_Calculate_Composition_at_Top1_by_Broad_Sector.do,top1 income earner analysis,Stata code,This shows how to replicate my anlaysis of top1% earners by broad/high-level sector of work
 Appendix_CENSUS_IPUMS_Calculate_Composition_at_Top1_by_Occ_or_Industry.do,top1 income earner analysis,Stata code,This shows how to replicate my anlaysis of top1% earners by detailed industry or occupation of work
-Appendix_Data_Dictionary_&_Sourcing.csv,Dictionary,Meta data,Shows where I got the data from and other details
+Appendix_Data_Dictionary_&_Sourcing.csv,Dictionary,Meta data,SOURCES: Shows where I got the data from and other details
 Appendix_Data_for_OECD_Analysis_of_Inequality.csv,Data for international analysis,Data,"raw international data needed to replicate my analysis, particularly in chapter1 and the appendix showing what predicts inequality"
 Appendix_Gallup_Financial_Insecurity_&_Confidence_Government.do,Political satisfaction analysis,Stata code,Gallup World Poll data processing
 Appendix_Generate_OECD_Only_Inequality_Analysis_&_Output.do,international analysis of inequality,Stata code,Code for analyzing many merged files from the sources described in the file Appendix_Data_Dictionary_&_Sourcing.csv
 APPENDIX_LIS_OUTPUT--Composition of Top1 by Occupation & Sector by Country,top1 income earner analysis,Data,This publishes measures of top1 shares by occupation and sector and related data--including how these metrics related to inequality--for all countries in the Luxembourg Income Study database (includes non-OECD members)
+Appendix_Methods_for_Identifying_Top1Pct_with_ACS2012_2016,top1 income earner analysis,Stata code,This file performs analysis described in the Appendix chapter to identify the one percent and determine the robustness of that identificaiton across various income definitions.
+Appendix_Methods_IRS_Income_Correlation_with_Census_Income,top1 income earner analysis,Stata code,This processes IRS data at the zip code level and shows the relationship between total income and capital income.
 Appendix_NLS_1979_Predict_Health_Income.do,"cognitive ability, personality, income, health",Stata code,US based analysis of how IQ and personality predict health and income and what predict IQ and personality and how it varies and does not vary by race and gender
 Appendix_NLS_1997_Predict_Personality_Health_&_Income.do,"cognitive ability, personality, income, health",Stata code,US based analysis of how IQ and personality predict health and income and what predict IQ and personality and how it varies and does not vary by race and gender
+Appendix_PIACC_Figure_3_2,"cognitive ability, personality, income, health",Stata code,Analysis of inequality in health and income in PIACC countries; also shows simulation of alternative inequality measures if observable characteristics determined income and health; also calcualtes professional earnings advantage (premium) shown in Figure 3.2
 Appendix_PIACC_IQ_by_Occupation.do,"cognitive ability, personality, income, health",Stata code,International analysis of adult cognitive ability
+Appendix_PIACC_USA_IQ_by_RACE,"cognitive ability, personality, income, health",Stata code,Shows racial and ethnic differneces in cognitive performance on the PIACC by race for U.S. test takers
 Appendix_PISA_Skill_Gaps.do,"cognitive ability, personality, income, health",Stata code,International analysis of 15 year-old cognitive ability
 Appendix_PreK_Classroom_Quality_&_IQ.do,education quality and cognitive ability,Stata code,Analysis of preK classrooms in USA & IQ
 Appendix_Project_Talent_Analysis.do,education quality and cognitive ability,Stata code,Analysis of IQ of 5% of US high school students in 1960
@@ -38,4 +40,8 @@ OECD_Explain_UN_Gini.csv,international analysis of inequality,Results from OECD 
 OECD_Explain_WID_Top1_Share.csv,international analysis of inequality,Results from OECD inequality analysis,
 OECD_Regress_Confidence_on_Growth_Inequality.csv,international analysis of inequality,Results from OECD inequality analysis,
 OUTPUT_Correlations_with_Inequality_OECD_Only.csv,international analysis of inequality,Results from OECD inequality analysis,
+PIACC_country_code,Dictionary,Meta data,This provides country labels to PIACC codes (STATA version)
+PIACC_MetaData_OECD_CountryLabels,Dictionary,Meta data,This provides country labels to PIACC codes (csv version)
+PIACC_MetaData_OECD_Occupation_Categories.csv,Dictionary,Meta data,"This identifies occupations in PIACC as professional, managerial, associate professional/technical or non-professional (csv version)"
+PIACC_MetaData_OECD_Occupation_Categories.dta,Dictionary,Meta data,"This identifies occupations in PIACC as professional, managerial, associate professional/technical or non-professional (STATA version)"
 Regress_Confidence_on_Anxiety.csv,international analysis of political dissatisfaction,Results from OECD inequality analysis,

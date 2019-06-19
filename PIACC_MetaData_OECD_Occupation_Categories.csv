@@ -1,0 +1,56 @@
+occ_title,isco2c_string,ISCO2C,prof,manager,technician
+"Armed forces occupations",0,0,0,0,0
+"Managers",1,1,1,1,0
+"Professionals",2,2,1,0,0
+"Technicians and associate professionals",3,3,1,0,0
+"Clerical support workers",4,4,0,0,0
+"Service and sales workers",5,5,0,0,0
+"Skilled agricultural, forestry and fishery workers",6,6,0,0,0
+"Craft and related trades workers",7,7,0,0,0
+"Plant and machine operators, and assemblers",8,8,0,0,0
+"Elementary occupations",9,9,0,0,0
+"Chief executives, senior officials and legislators",11,11,1,1,0
+"Administrative and commercial managers",12,12,1,1,0
+"Production and specialised services managers",13,13,1,1,0
+"Hospitality, retail and other services managers",14,14,1,1,0
+"Science and engineering professionals",21,21,1,0,0
+"Health professionals",22,22,1,0,0
+"Teaching professionals",23,23,1,0,0
+"Business and administration professionals",24,24,1,0,0
+"Information and communications technology professionals",25,25,1,0,0
+"Legal, social and cultural professionals",26,26,1,0,0
+"Science and engineering associate professionals",31,31,1,0,1
+"Health associate professionals",32,32,1,0,1
+"Business and administration associate professionals",33,33,1,0,1
+"Legal, social, cultural and related associate professionals",34,34,1,0,1
+"Information and communications technicians",35,35,1,0,1
+"General and keyboard clerks",41,41,0,0,0
+"Customer services clerks",42,42,0,0,0
+"Numerical and material recording clerks",43,43,0,0,0
+"Other clerical support workers",44,44,0,0,0
+"Personal service workers",51,51,0,0,0
+"Sales workers",52,52,0,0,0
+"Personal care workers",53,53,0,0,0
+"Protective services workers",54,54,0,0,0
+"Market-oriented skilled agricultural workers",61,61,0,0,0
+"Market-oriented skilled forestry, fishery and hunting workers",62,62,0,0,0
+"Subsistence farmers, fishers, hunters and gatherers",63,63,0,0,0
+"Building and related trades workers, excluding electricians",71,71,0,0,0
+"Metal, machinery and related trades workers",72,72,0,0,0
+"Handicraft and printing workers",73,73,0,0,0
+"Electrical and electronic trades workers",74,74,0,0,0
+"Food processing, wood working, garment and other craft and related trades workers",75,75,0,0,0
+"Stationary plant and machine operators",81,81,0,0,0
+"Assemblers",82,82,0,0,0
+"Drivers and mobile plant operators",83,83,0,0,0
+"Cleaners and helpers",91,91,0,0,0
+"Agricultural, forestry and fishery labourers",92,92,0,0,0
+"Labourers in mining, construction, manufacturing and transport",93,93,0,0,0
+"Food preparation assistants",94,94,0,0,0
+"Street and related sales and service workers",95,95,0,0,0
+"Refuse workers and other elementary workers",96,96,0,0,0
+"No paid work for past 5 years",,9995,0,0,0
+"Valid skip",,9996,0,0,0
+"Don't know",,9997,0,0,0
+"Refused",,9998,0,0,0
+"Not stated or inferred",,9999,0,0,0

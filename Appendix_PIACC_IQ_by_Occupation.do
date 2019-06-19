@@ -258,6 +258,7 @@ tab country_name if MD==1
 areg lnearn Zskill primary assoc ba grad_degree AGE_R age2 age3 age4 ///
 male born_here   native_lang_dif  ZSocial_Adv [aw=SPFWT0], ab(country_name)
 predict Earn_Res_Occ, res
+
 gen iq=(Zskill*15)+100
 sum Zskill iq Earn_Res if MD==1 [aw=SPFWT0]
 
